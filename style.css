@@ -57,15 +57,28 @@ form input{
     border-radius: 100px;
 }
 .btnred{
+    width: 60px;
+    height: 60px;
+    font-size: 0.8rem;
+    font-weight: 600;
+    /* border-radius: 4px; */
+    /* padding-top: 20px; */
+    margin-top: 10px;
     background-color: red;
     color: white;
-    font-size: 17px;
     text-align: center;
-    /* border-radius: 100px; */
 }
 .btngray{
-    background-color: rgba(128, 128, 128, 0.881);
-    font-size: 18px;
+    width: 60px;
+    height: 60px;
+    font-size: 1rem;
+    font-weight: 600;
+    /* border-radius: 4px; */
+    /* padding-top: 20px; */
+    margin-top: 10px;
+    background-color: gray;
+    color: white;
     text-align: center;
+    
 
 }
