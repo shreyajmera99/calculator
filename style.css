@@ -59,8 +59,13 @@ form input{
 .btnred{
     background-color: red;
     color: white;
+    font-size: 17px;
+    text-align: center;
     /* border-radius: 100px; */
 }
 .btngray{
     background-color: rgba(128, 128, 128, 0.881);
+    font-size: 18px;
+    text-align: center;
+
 }
